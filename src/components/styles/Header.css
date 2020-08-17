@@ -1,0 +1,69 @@
+/* Header*/
+.header {
+    display: flex;
+    place-items: center;
+    height: 5rem;
+    padding: 0 1.5rem;
+}
+
+.header svg {
+    margin-right: auto;
+}
+
+.header button {
+    height: 2rem;
+    width: 2rem;
+    font-size: 1.1rem;
+    border: 1px solid hsl(270, 9%, 17%);
+    color: hsl(270, 9%, 17%);
+}
+
+/*Navigation*/
+.nav {
+    position: absolute;
+    top: 5rem;
+    width: 100%;
+    height: calc(100% - 5rem);
+    background-color: hsl(270, 9%, 17%);
+    text-align: center;
+    padding-top: 1rem;
+    transition: 0.5s;
+    z-index: 1000;
+}
+
+.nav:after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 13.5rem;
+    background: url("../../assets/images/mobile-nav.svg");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+nav li {
+    margin-top: 1rem;
+    display: flex;
+    place-items: center;
+}
+
+nav li a {
+    letter-spacing: 1px;
+    width: 100%;
+    padding: 1rem;
+    color: white;
+}
+
+nav li a:active {
+    border: 2px solid white;
+}
+
+.showNav {
+    transform: translateX(0);
+}
+
+.hideNav {
+    transform: translateX(calc(-100% - 80px));
+}
