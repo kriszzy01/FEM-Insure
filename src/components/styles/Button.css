@@ -1,7 +1,8 @@
 .button {
-    border: 1px solid white;
+    border: 1.5px solid white;
     background-color: transparent;
-    padding: 0.5rem 1rem;
+    padding: 0.7rem 2rem;
     color: white;
     letter-spacing: 1px;
+    font-size: 0.8rem;
 }

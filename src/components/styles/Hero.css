@@ -2,7 +2,7 @@
     background-color: hsl(256, 26%, 20%);
     text-align: center;
     color: white;
-    letter-spacing: 1px;
+    letter-spacing: 1.5px;
 }
 
 .hero img {
@@ -10,7 +10,7 @@
 }
 
 .heroIntro {
-    padding: 6rem 2rem;
+    padding: 6rem 1.5rem;
     position: relative;
 }
 
@@ -30,10 +30,15 @@
     content: "";
     position: absolute;
     right: 0;
-    bottom: -11rem;
+    bottom: -22rem;
     height: 100%;
-    width: 8rem;
+    width: 7.5rem;
     background: url("../../assets/images/bg-pattern-intro-right-mobile.svg");
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
+}
+
+.heroIntro p {
+    margin: 2rem 0;
+    text-align: justify;
 }
