@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "69f07a93e5fc7585afb038e41563d27d",
+    "revision": "8dd3c7e4288bb925b2a33a7e7b562063",
     "url": "/FEM-Insure/index.html"
   },
   {
-    "revision": "1efb607fb799e3c33c40",
-    "url": "/FEM-Insure/static/css/main.3fcae40c.chunk.css"
+    "revision": "74e16a8ff60b464bd979",
+    "url": "/FEM-Insure/static/css/main.b4614b79.chunk.css"
   },
   {
     "revision": "d185232850d7a140176e",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/FEM-Insure/static/js/2.b399add0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1efb607fb799e3c33c40",
+    "revision": "74e16a8ff60b464bd979",
     "url": "/FEM-Insure/static/js/main.f54927e2.chunk.js"
   },
   {
