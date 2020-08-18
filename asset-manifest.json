@@ -1,22 +1,27 @@
 {
   "files": {
-    "main.css": "/FEM-Insure/static/css/main.0f9f41e4.chunk.css",
-    "main.js": "/FEM-Insure/static/js/main.4fb7e0a7.chunk.js",
-    "main.js.map": "/FEM-Insure/static/js/main.4fb7e0a7.chunk.js.map",
+    "main.css": "/FEM-Insure/static/css/main.3223c49f.chunk.css",
+    "main.js": "/FEM-Insure/static/js/main.32b15249.chunk.js",
+    "main.js.map": "/FEM-Insure/static/js/main.32b15249.chunk.js.map",
     "runtime-main.js": "/FEM-Insure/static/js/runtime-main.446e76fc.js",
     "runtime-main.js.map": "/FEM-Insure/static/js/runtime-main.446e76fc.js.map",
     "static/js/2.64d7fa78.chunk.js": "/FEM-Insure/static/js/2.64d7fa78.chunk.js",
     "static/js/2.64d7fa78.chunk.js.map": "/FEM-Insure/static/js/2.64d7fa78.chunk.js.map",
     "index.html": "/FEM-Insure/index.html",
-    "precache-manifest.799ab5555453e41faf099dc99abf1740.js": "/FEM-Insure/precache-manifest.799ab5555453e41faf099dc99abf1740.js",
+    "precache-manifest.39dd099274f2dfdaaec4c4954f36f8b4.js": "/FEM-Insure/precache-manifest.39dd099274f2dfdaaec4c4954f36f8b4.js",
     "service-worker.js": "/FEM-Insure/service-worker.js",
-    "static/css/main.0f9f41e4.chunk.css.map": "/FEM-Insure/static/css/main.0f9f41e4.chunk.css.map",
+    "static/css/main.3223c49f.chunk.css.map": "/FEM-Insure/static/css/main.3223c49f.chunk.css.map",
     "static/js/2.64d7fa78.chunk.js.LICENSE.txt": "/FEM-Insure/static/js/2.64d7fa78.chunk.js.LICENSE.txt",
+    "static/media/Footer.css": "/FEM-Insure/static/media/bg-pattern-footer-mobile.c33e3a52.svg",
     "static/media/HowWeWork.css": "/FEM-Insure/static/media/bg-pattern-how-we-work-mobile.a4de14b0.svg",
     "static/media/Hero.css": "/FEM-Insure/static/media/bg-pattern-intro-right-mobile.ef3d23bd.svg",
     "static/media/icon-affordable-prices.svg": "/FEM-Insure/static/media/icon-affordable-prices.b9dc0b5c.svg",
+    "static/media/icon-facebook.6fd0e324.svg": "/FEM-Insure/static/media/icon-facebook.6fd0e324.svg",
+    "static/media/icon-instagram.48a204c8.svg": "/FEM-Insure/static/media/icon-instagram.48a204c8.svg",
     "static/media/icon-people-first.svg": "/FEM-Insure/static/media/icon-people-first.b264095b.svg",
+    "static/media/icon-pinterest.275a65a2.svg": "/FEM-Insure/static/media/icon-pinterest.275a65a2.svg",
     "static/media/icon-snappy-process.svg": "/FEM-Insure/static/media/icon-snappy-process.3cc5dc39.svg",
+    "static/media/icon-twitter.6eef62ff.svg": "/FEM-Insure/static/media/icon-twitter.6eef62ff.svg",
     "static/media/image-intro-mobile.jpg": "/FEM-Insure/static/media/image-intro-mobile.09a91c1a.jpg",
     "static/media/logo.1bc452ac.svg": "/FEM-Insure/static/media/logo.1bc452ac.svg",
     "static/media/Header.css": "/FEM-Insure/static/media/mobile-nav.2922ed2c.svg"
@@ -24,7 +29,7 @@
   "entrypoints": [
     "static/js/runtime-main.446e76fc.js",
     "static/js/2.64d7fa78.chunk.js",
-    "static/css/main.0f9f41e4.chunk.css",
-    "static/js/main.4fb7e0a7.chunk.js"
+    "static/css/main.3223c49f.chunk.css",
+    "static/js/main.32b15249.chunk.js"
   ]
 }
