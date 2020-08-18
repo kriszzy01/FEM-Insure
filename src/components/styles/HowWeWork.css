@@ -16,7 +16,7 @@
     width: 50%;
     background: url("../../assets/images/bg-pattern-how-we-work-mobile.svg");
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
 }
 
 .howWeWork h1 {

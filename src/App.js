@@ -3,6 +3,7 @@ import {Header} from "./components/Header";
 import {Hero} from "./components/Hero";
 import {WhyUs} from "./components/WhyUs";
 import {HowWeWork} from "./components/HowWeWork";
+import {Footer} from "./components/Footer";
 import "./App.css";
 
 export const App = () => {
@@ -14,6 +15,7 @@ export const App = () => {
                 <WhyUs/>
                 <HowWeWork/>
             </main>
+            <footer><Footer/></footer>
         </>
     );
 };

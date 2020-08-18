@@ -1,0 +1,13 @@
+.footerCard {
+    width: 80%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    place-items: center;
+}
+
+.footerCard p:nth-child(1) {
+    padding: 2rem 0;
+    color: hsl(273, 4%, 51%);
+    font-weight: 100;
+}
