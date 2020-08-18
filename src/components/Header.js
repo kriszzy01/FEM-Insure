@@ -8,13 +8,13 @@ export const Header = () => {
     const [toggleNav, setToggleNav] = useState(false);
 
     return (
-        <header>
+        <>
             <section className="header">
                 <Logo />
                 <NavToggleButton toggleNav={toggleNav} onToggle={() => setToggleNav(!toggleNav)} />
             </section>
             <NavBar toggleNav={toggleNav} />
-        </header>
+        </>
     );
 };
 
