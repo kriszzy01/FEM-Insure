@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "672e455f237ee8891f91db3158e737d9",
+    "revision": "05c7dc02602bdea2650c4af2b093a9ed",
     "url": "/FEM-Insure/index.html"
   },
   {
-    "revision": "599ed1e4bfd46b4c5528",
-    "url": "/FEM-Insure/static/css/main.305baaa6.chunk.css"
+    "revision": "52611ee299cde7b0ff25",
+    "url": "/FEM-Insure/static/css/main.0f9f41e4.chunk.css"
   },
   {
     "revision": "cb4392edf8ea8df918c9",
@@ -16,12 +16,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/FEM-Insure/static/js/2.64d7fa78.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "599ed1e4bfd46b4c5528",
-    "url": "/FEM-Insure/static/js/main.91204f27.chunk.js"
+    "revision": "52611ee299cde7b0ff25",
+    "url": "/FEM-Insure/static/js/main.4fb7e0a7.chunk.js"
   },
   {
     "revision": "5d24530b8c12a0fbb1dc",
     "url": "/FEM-Insure/static/js/runtime-main.446e76fc.js"
+  },
+  {
+    "revision": "a4de14b0ee74ee9f31076b875f4ef78e",
+    "url": "/FEM-Insure/static/media/bg-pattern-how-we-work-mobile.a4de14b0.svg"
   },
   {
     "revision": "562149a81a4a5d64fcb7309999bdbcf9",
