@@ -1,6 +1,6 @@
 header {
     position: fixed;
-    width: 100vw;
+    width: 100%;
     z-index: 1000;
 }
 
@@ -8,4 +8,10 @@ footer {
     text-align: center;
     background-color: hsl(0, 0%, 98%);
     padding-bottom: 5rem;
+}
+
+@media screen and (min-width: 376px) {
+    header {
+        display: flex;
+    }
 }

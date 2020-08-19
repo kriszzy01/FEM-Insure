@@ -1,12 +1,13 @@
 import React from "react";
-import introImage from "../assets/images/image-intro-mobile.jpg"
+import introImageMobile from "../assets/images/image-intro-mobile.jpg";
+import introImageDesktop from "../assets/images/image-intro-desktop.jpg";
 import {Button} from "./Button";
 import "./styles/Hero.css";
 
 export const Hero = () => {
     return(
         <section className="hero">
-            <img src={introImage} alt="four people holding hands"/>
+            <img src={introImageMobile} alt="four people holding hands"  className="heroImageMobile"/>
             <section className="heroIntro">
                 <h1>Humanizing your insurance.</h1>
                 <p>
@@ -17,6 +18,7 @@ export const Hero = () => {
                 </p>
                 <Button>VIEW PLANS</Button>
             </section>
+            <img src={introImageDesktop} alt="four people holding hands"  className="heroImageDesktop"/>
         </section>
     );
 };

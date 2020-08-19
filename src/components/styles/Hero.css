@@ -9,6 +9,10 @@
     width: 100%;
 }
 
+.heroImageDesktop {
+    display: none;
+}
+
 .heroIntro {
     padding: 6rem 1.5rem;
     position: relative;
@@ -40,4 +44,64 @@
 
 .heroIntro p {
     margin: 2rem 0;
+}
+
+@media screen and (min-width: 376px) {
+    .hero {
+        display: flex;
+        justify-content: center;
+        position: relative;
+        text-align: left;
+    }
+
+    .heroIntro {
+        width: 45%;
+        padding: 12rem 1rem ;
+    }
+    
+    .heroIntro:before, .heroIntro:after {
+        display: none;
+    }
+    
+    .heroIntro p {
+        margin: 2rem 0;
+    }
+
+    .hero:before {
+        content: "";
+        position: absolute;
+        left: 0;
+        bottom: -12rem;
+        height: 60%;
+        width: 20%;
+        background: url("../../assets/images/bg-pattern-intro-left-desktop.svg");
+        background-repeat: no-repeat;
+        background-size: contain;
+    }
+    
+    .hero:after {
+        content: "";
+        position: absolute;
+        right: 0;
+        top: 0;
+        height: 100%;
+        width: 28%;
+        background: url("../../assets/images/bg-pattern-intro-right-desktop.svg");
+        background-repeat: no-repeat;
+        background-size: contain;
+    }
+
+    .hero img {
+        width: auto;
+        top: 12rem;
+        position: relative;
+    }
+
+    .heroImageMobile {
+        display: none;
+    }
+
+    .heroImageDesktop {
+        display: block;
+    }
 }
