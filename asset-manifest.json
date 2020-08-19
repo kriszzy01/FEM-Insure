@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/FEM-Insure/static/css/main.b80ea151.chunk.css",
-    "main.js": "/FEM-Insure/static/js/main.8a4d5973.chunk.js",
-    "main.js.map": "/FEM-Insure/static/js/main.8a4d5973.chunk.js.map",
+    "main.css": "/FEM-Insure/static/css/main.fcda12b9.chunk.css",
+    "main.js": "/FEM-Insure/static/js/main.251af6ce.chunk.js",
+    "main.js.map": "/FEM-Insure/static/js/main.251af6ce.chunk.js.map",
     "runtime-main.js": "/FEM-Insure/static/js/runtime-main.446e76fc.js",
     "runtime-main.js.map": "/FEM-Insure/static/js/runtime-main.446e76fc.js.map",
     "static/js/2.7ce65631.chunk.js": "/FEM-Insure/static/js/2.7ce65631.chunk.js",
     "static/js/2.7ce65631.chunk.js.map": "/FEM-Insure/static/js/2.7ce65631.chunk.js.map",
     "index.html": "/FEM-Insure/index.html",
-    "precache-manifest.4e66f50860c77a8f69dd3a360f01abb1.js": "/FEM-Insure/precache-manifest.4e66f50860c77a8f69dd3a360f01abb1.js",
+    "precache-manifest.2e6c7380ad28e24a667c0fd4abeb7d4c.js": "/FEM-Insure/precache-manifest.2e6c7380ad28e24a667c0fd4abeb7d4c.js",
     "service-worker.js": "/FEM-Insure/service-worker.js",
-    "static/css/main.b80ea151.chunk.css.map": "/FEM-Insure/static/css/main.b80ea151.chunk.css.map",
+    "static/css/main.fcda12b9.chunk.css.map": "/FEM-Insure/static/css/main.fcda12b9.chunk.css.map",
     "static/js/2.7ce65631.chunk.js.LICENSE.txt": "/FEM-Insure/static/js/2.7ce65631.chunk.js.LICENSE.txt",
     "static/media/Footer.css": "/FEM-Insure/static/media/bg-pattern-footer-mobile.c33e3a52.svg",
     "static/media/HowWeWork.css": "/FEM-Insure/static/media/bg-pattern-how-we-work-mobile.a4de14b0.svg",
@@ -30,7 +30,7 @@
   "entrypoints": [
     "static/js/runtime-main.446e76fc.js",
     "static/js/2.7ce65631.chunk.js",
-    "static/css/main.b80ea151.chunk.css",
-    "static/js/main.8a4d5973.chunk.js"
+    "static/css/main.fcda12b9.chunk.css",
+    "static/js/main.251af6ce.chunk.js"
   ]
 }

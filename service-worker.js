@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/FEM-Insure/precache-manifest.4e66f50860c77a8f69dd3a360f01abb1.js"
+  "/FEM-Insure/precache-manifest.2e6c7380ad28e24a667c0fd4abeb7d4c.js"
 );
 
 self.addEventListener('message', (event) => {
