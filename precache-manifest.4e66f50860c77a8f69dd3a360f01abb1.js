@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1b0f112cc0031fb9fcc731f1aa221004",
+    "revision": "a0035a1216ba123bcb9af35efb058248",
     "url": "/FEM-Insure/index.html"
   },
   {
-    "revision": "8f5482c04ef21475bdf8",
-    "url": "/FEM-Insure/static/css/main.3223c49f.chunk.css"
+    "revision": "bc7718f341bcbdfbba8c",
+    "url": "/FEM-Insure/static/css/main.b80ea151.chunk.css"
   },
   {
-    "revision": "cb4392edf8ea8df918c9",
-    "url": "/FEM-Insure/static/js/2.64d7fa78.chunk.js"
+    "revision": "310b89d5be4e794af2d9",
+    "url": "/FEM-Insure/static/js/2.7ce65631.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/FEM-Insure/static/js/2.64d7fa78.chunk.js.LICENSE.txt"
+    "url": "/FEM-Insure/static/js/2.7ce65631.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8f5482c04ef21475bdf8",
-    "url": "/FEM-Insure/static/js/main.32b15249.chunk.js"
+    "revision": "bc7718f341bcbdfbba8c",
+    "url": "/FEM-Insure/static/js/main.8a4d5973.chunk.js"
   },
   {
     "revision": "5d24530b8c12a0fbb1dc",
@@ -32,8 +32,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/FEM-Insure/static/media/bg-pattern-how-we-work-mobile.a4de14b0.svg"
   },
   {
+    "revision": "600d644489d031fb0e8be595b58bfa37",
+    "url": "/FEM-Insure/static/media/bg-pattern-intro-left-desktop.600d6444.svg"
+  },
+  {
     "revision": "562149a81a4a5d64fcb7309999bdbcf9",
     "url": "/FEM-Insure/static/media/bg-pattern-intro-left-mobile.562149a8.svg"
+  },
+  {
+    "revision": "fc61cf1f05af8c8a0a1589173cd5a6a6",
+    "url": "/FEM-Insure/static/media/bg-pattern-intro-right-desktop.fc61cf1f.svg"
   },
   {
     "revision": "ef3d23bd373b877c0f109cf00fccdd0d",
@@ -66,6 +74,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6eef62ff8487d0c9808c68e74d68d9c8",
     "url": "/FEM-Insure/static/media/icon-twitter.6eef62ff.svg"
+  },
+  {
+    "revision": "8ac69ec7c30fa6465fa05426a4b235f4",
+    "url": "/FEM-Insure/static/media/image-intro-desktop.8ac69ec7.jpg"
   },
   {
     "revision": "09a91c1a381a6fc1ecb8512490b74a12",
