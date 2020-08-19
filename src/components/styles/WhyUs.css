@@ -11,3 +11,24 @@
 .whyUs h1 {
     margin-top: 2.5rem;
 }
+
+@media screen and (min-width: 500px) {
+    .whyUs {
+        padding: 17rem 8rem 0;
+        text-align: left;
+    }
+
+    .whyUs hr {
+        width: 10%;
+        margin: 0;
+    }
+
+    .card {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .mainCard {
+        width: 30%;
+    }
+}

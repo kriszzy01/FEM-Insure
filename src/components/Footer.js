@@ -12,7 +12,7 @@ export const Footer = () => {
         <>
             <FooterHeader />
             <hr />
-            <section>
+            <section className="card">
                 <FooterCard>
                     <p>OUR COMPANY</p>
                     <p>HOW WE WORK</p>

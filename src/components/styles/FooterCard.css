@@ -11,3 +11,18 @@
     color: hsl(273, 4%, 51%);
     font-weight: 100;
 }
+
+@media screen and (min-width: 500px) {
+    footer .card {
+        width: 80%;
+        margin: auto;
+    }
+    
+    .footerCard {
+        align-items: flex-start;
+    }
+
+    .footerCard  p {
+        text-align: left;
+    }
+}

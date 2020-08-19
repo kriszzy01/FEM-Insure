@@ -27,3 +27,42 @@ footer hr {
 .socialMedia {
     padding: 2rem;
 }
+
+@media screen and (min-width: 500px) {
+    footer header {
+        padding: 2rem 8rem;
+    }
+    
+    .socialMedia {
+        padding: 0;
+    }
+
+    footer svg {
+        margin-right: auto;
+    }
+
+    footer header::before {
+        display: none;
+    }
+
+    footer {
+        position: relative;
+    }
+
+    footer hr {
+        width: 80%;
+        margin: auto;
+    }
+
+    footer:before {
+        content: "";
+        position: absolute;
+        left: 0;
+        top: 0;
+        height: 100%;
+        width: 100%;
+        background: url("../../assets/images/bg-pattern-footer-desktop.svg");
+        background-size: 35% 55%;
+        background-repeat: no-repeat;
+    }
+}

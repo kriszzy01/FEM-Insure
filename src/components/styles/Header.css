@@ -69,7 +69,7 @@ nav li a:active {
     transform: translateX(calc(-100% - 80px));
 }
 
-@media screen and (min-width: 376px) {
+@media screen and (min-width: 500px) {
     .header button {
         display: none;
     }

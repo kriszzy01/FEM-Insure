@@ -9,6 +9,7 @@ export const Hero = () => {
         <section className="hero">
             <img src={introImageMobile} alt="four people holding hands"  className="heroImageMobile"/>
             <section className="heroIntro">
+                <hr/>
                 <h1>Humanizing your insurance.</h1>
                 <p>
                     Get your life insurance coverage easier and faster.
